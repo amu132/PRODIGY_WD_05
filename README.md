@@ -28,7 +28,7 @@
 
 
 <p> <b> Languages Used: HTML, CSS, & JavaScript  </b> </p>
-<h2>Preview: </h2>
+<h2>Preview: https://amu132.github.io/PRODIGY_WD_05/ </h2>
 
 
 CREATED BY :-@AMOGH GAIKWAD
